@@ -1,0 +1,15 @@
+C:\Users\viesi\source\repos\EnumerationClasses\EnumerationClasses\bin\Debug\net6.0\EnumerationClasses.exe
+C:\Users\viesi\source\repos\EnumerationClasses\EnumerationClasses\bin\Debug\net6.0\EnumerationClasses.deps.json
+C:\Users\viesi\source\repos\EnumerationClasses\EnumerationClasses\bin\Debug\net6.0\EnumerationClasses.runtimeconfig.json
+C:\Users\viesi\source\repos\EnumerationClasses\EnumerationClasses\bin\Debug\net6.0\EnumerationClasses.dll
+C:\Users\viesi\source\repos\EnumerationClasses\EnumerationClasses\bin\Debug\net6.0\EnumerationClasses.pdb
+C:\Users\viesi\source\repos\EnumerationClasses\EnumerationClasses\obj\Debug\net6.0\EnumerationClasses.csproj.AssemblyReference.cache
+C:\Users\viesi\source\repos\EnumerationClasses\EnumerationClasses\obj\Debug\net6.0\EnumerationClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viesi\source\repos\EnumerationClasses\EnumerationClasses\obj\Debug\net6.0\EnumerationClasses.AssemblyInfoInputs.cache
+C:\Users\viesi\source\repos\EnumerationClasses\EnumerationClasses\obj\Debug\net6.0\EnumerationClasses.AssemblyInfo.cs
+C:\Users\viesi\source\repos\EnumerationClasses\EnumerationClasses\obj\Debug\net6.0\EnumerationClasses.csproj.CoreCompileInputs.cache
+C:\Users\viesi\source\repos\EnumerationClasses\EnumerationClasses\obj\Debug\net6.0\EnumerationClasses.dll
+C:\Users\viesi\source\repos\EnumerationClasses\EnumerationClasses\obj\Debug\net6.0\refint\EnumerationClasses.dll
+C:\Users\viesi\source\repos\EnumerationClasses\EnumerationClasses\obj\Debug\net6.0\EnumerationClasses.pdb
+C:\Users\viesi\source\repos\EnumerationClasses\EnumerationClasses\obj\Debug\net6.0\EnumerationClasses.genruntimeconfig.cache
+C:\Users\viesi\source\repos\EnumerationClasses\EnumerationClasses\obj\Debug\net6.0\ref\EnumerationClasses.dll
